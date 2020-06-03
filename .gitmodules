@@ -4,3 +4,6 @@
 [submodule "order-service"]
 	path = order-service
 	url = git@github.com:tatyushev-ms/order-service.git
+[submodule "gateway"]
+	path = gateway
+	url = git@github.com:tatyushev-ms/gateway.git
